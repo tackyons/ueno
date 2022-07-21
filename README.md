@@ -14,4 +14,4 @@ To generate a release build you need two files that are not, for good reasons, p
 You can get these files from our Google Cloud Storage account. 
 
 
-1
+2
