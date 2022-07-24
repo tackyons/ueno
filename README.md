@@ -4,7 +4,7 @@ yamanote aesthetic2
 
 ## Creating release builds
 
-### Play Store3
+### Play Store4
 
 To generate a release build you need two files that are not, for good reasons, part of this repository: 
 
